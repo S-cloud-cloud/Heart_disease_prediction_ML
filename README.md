@@ -1,4 +1,4 @@
-# Heart_disease_prediction_ML
+# Heart_disease_prediction_Model_ML
 Heart disease exploratory analysis and prediction model  using ML concepts and Logistic regression algorithm in R language.The model makes an analysis of carefully 
 selected features from the dataset (that was first cleaned,transformed in binary classification and vizualized accordingly ) that are the causes 
 behind a heart disease and then performs an exploratory analysis of all the predicators and shows result in box plot graphs.After that the data is splitted in 75% training &
